@@ -152,7 +152,7 @@ export const aboutMe = {
   title: 'Full Stack Developer',
   location: 'Chennai, India',
   email: 'nitishsaravanan63@gmail.com',
-  phone: '+91 98765 43210',
+  phone: '+91 9342782845',
   socials: {
     github: 'https://github.com/Yoshida28',
     linkedin: 'https://www.linkedin.com/in/nitish-saravanan-64a877305/',
