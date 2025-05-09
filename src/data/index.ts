@@ -78,21 +78,21 @@ export const certifications: Certification[] = [
     title: 'HackTrax Participation',
     issuer: 'HackTrax',
     date: 'Mar 2024',
-    link: 'https://media.discordapp.net/attachments/1345363641993793569/1370322664178061413/Nitish_Saravanan1.png'
+    link: 'https://media.discordapp.net/attachments/1345363641993793569/1370322664178061413/Nitish_Saravanan1.png?ex=681f13ee&is=681dc26e&hm=af66794b420faf08e35b61b47515e13d35a944d321123b040d066d2f6774fcca&=&format=webp&quality=lossless&width=899&height=635'
   },
   {
     id: 'cert8',
     title: 'HackRush Participation',
     issuer: 'HackRush',
     date: 'Mar 2024',
-    link: 'https://media.discordapp.net/attachments/1345363641993793569/1370322982240784444/1729686582765.png'
+    link: 'https://media.discordapp.net/attachments/1345363641993793569/1370322982240784444/1729686582765.png?ex=681f143a&is=681dc2ba&hm=1842116c0aaa91bfd288f7fbc6c28a8483491d43d4602790f52786d7ae550bd0&=&format=webp&quality=lossless&width=899&height=635'
   },
   {
     id: 'cert9',
     title: 'Cyber Jagrukta Divas',
     issuer: 'Cyber Security',
     date: 'Feb 2024',
-    link: 'https://media.discordapp.net/attachments/1345363641993793569/1370323496701267978/1738942459666.png'
+    link: 'https://media.discordapp.net/attachments/1345363641993793569/1370323496701267978/1738942459666.png?ex=681f14b4&is=681dc334&hm=77f33f225cc882da6b7c322b1ed7ae931313e9c6a6c00401468b3d055716196b&=&format=webp&quality=lossless&width=899&height=635'
   }
 ];
 
