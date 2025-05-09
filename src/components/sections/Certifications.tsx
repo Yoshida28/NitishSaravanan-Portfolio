@@ -1,7 +1,7 @@
 import React from 'react';
 import Section from '../ui/Section';
 import { certifications } from '../../data';
-import { Award } from 'lucide-react';
+import { Award, ExternalLink } from 'lucide-react';
 
 const Certifications: React.FC = () => {
   return (
@@ -38,6 +38,16 @@ const Certifications: React.FC = () => {
                   <p className="text-sm text-slate-500 dark:text-slate-500 mt-2">
                     Credential ID: {cert.credentialId}
                   </p>
+                )}
+                {cert.link && (
+                  <a
+                    href={cert.link}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="inline-flex items-center text-blue-600 dark:text-blue-400 text-sm font-medium hover:underline mt-3"
+                  >
+                    View Certificate <ExternalLink size={14} className="ml-1" />
+                  </a>
                 )}
               </div>
             </div>
