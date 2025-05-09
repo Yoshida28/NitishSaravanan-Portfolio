@@ -30,41 +30,70 @@ export const certifications: Certification[] = [
     title: 'Data Analysis with Python',
     issuer: 'freeCodeCamp',
     date: 'Mar 2025',
-    credentialId: 'yoshida_14_-dawp',
+    credentialId: 'Yoshida_14_',
+    link: 'https://www.freecodecamp.org/certification/Yoshida_14_/data-analysis-with-python-v7'
   },
   {
     id: 'cert2',
     title: 'Python and Flask Demonstrations Practice Course',
     issuer: 'Udemy',
     date: 'Mar 2025',
+    credentialId: 'UC-58f15859-70af-4150-9670-1abb62de1924',
+    link: 'https://www.udemy.com/certificate/UC-58f15859-70af-4150-9670-1abb62de1924/'
   },
   {
     id: 'cert3',
     title: 'Entrepreneurship',
     issuer: 'Udemy',
     date: 'Feb 2025',
+    credentialId: 'UC-750094b8-77f5-4be1-b042-8ed0dd1d4e07',
+    link: 'https://www.udemy.com/certificate/UC-750094b8-77f5-4be1-b042-8ed0dd1d4e07/'
   },
   {
     id: 'cert4',
     title: 'Legacy JavaScript Algorithms and Data Structures',
     issuer: 'freeCodeCamp',
     date: 'Dec 2022',
-    credentialId: 'yoshida_14_-ljaads',
+    credentialId: 'Yoshida_14_',
+    link: 'https://www.freecodecamp.org/certification/Yoshida_14_/javascript-algorithms-and-data-structures'
   },
   {
     id: 'cert5',
     title: 'Responsive Web Design',
     issuer: 'freeCodeCamp',
     date: 'Dec 2022',
-    credentialId: 'yoshida_14_-rwd',
+    credentialId: 'Yoshida_14_',
+    link: 'https://www.freecodecamp.org/certification/Yoshida_14_/responsive-web-design'
   },
   {
     id: 'cert6',
     title: 'Scientific Computing with Python',
     issuer: 'freeCodeCamp',
     date: 'Dec 2022',
-    credentialId: 'yoshida_14_-scwp',
+    credentialId: 'Yoshida_14_',
+    link: 'https://www.freecodecamp.org/certification/Yoshida_14_/scientific-computing-with-python-v7'
   },
+  {
+    id: 'cert7',
+    title: 'HackTrax Participation',
+    issuer: 'HackTrax',
+    date: 'Mar 2024',
+    link: 'https://media.discordapp.net/attachments/1345363641993793569/1370322664178061413/Nitish_Saravanan1.png'
+  },
+  {
+    id: 'cert8',
+    title: 'HackRush Participation',
+    issuer: 'HackRush',
+    date: 'Mar 2024',
+    link: 'https://media.discordapp.net/attachments/1345363641993793569/1370322982240784444/1729686582765.png'
+  },
+  {
+    id: 'cert9',
+    title: 'Cyber Jagrukta Divas',
+    issuer: 'Cyber Security',
+    date: 'Feb 2024',
+    link: 'https://media.discordapp.net/attachments/1345363641993793569/1370323496701267978/1738942459666.png'
+  }
 ];
 
 export const projects: Project[] = [
