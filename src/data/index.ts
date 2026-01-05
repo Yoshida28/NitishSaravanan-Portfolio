@@ -93,10 +93,47 @@ export const certifications: Certification[] = [
     issuer: 'Cyber Security',
     date: 'Feb 2024',
     link: 'https://media.discordapp.net/attachments/1345363641993793569/1370323496701267978/1738942459666.png?ex=681f14b4&is=681dc334&hm=77f33f225cc882da6b7c322b1ed7ae931313e9c6a6c00401468b3d055716196b&=&format=webp&quality=lossless&width=899&height=635'
+  },
+  {
+    id: 'cert10',
+    title: 'Executive Member',
+    issuer: 'Global Tamil Awards',
+    date: 'Jan 2024'
   }
 ];
 
 export const projects: Project[] = [
+  {
+    id: 'proj12',
+    title: 'AwardX',
+    description: 'A comprehensive award management software designed to provide premium features at an affordable price, challenging expensive and lower-quality alternatives.',
+    technologies: ['React', 'Node.js', 'Express', 'Supabase', 'Twilio', 'Resend', 'Google Auth'],
+    link: 'https://awardx.one',
+    featured: true,
+  },
+  {
+    id: 'proj13',
+    title: 'Franchify',
+    description: 'A brokerage-free platform connecting franchisors and franchisees, streamlining business opportunities with a modern tech stack.',
+    technologies: ['React', 'TypeScript', 'Node.js', 'Express', 'Supabase', 'Twilio', 'Resend', 'Google Auth'],
+    link: 'https://franchify.one',
+    featured: true,
+  },
+  {
+    id: 'proj14',
+    title: 'Paperplane',
+    description: 'An automated printing solution with integrated payment gateways and a custom Java library to eliminate long queues and streamline the printing process.',
+    technologies: ['React', 'Node.js', 'Express', 'Supabase', 'Flutter', 'Twilio', 'Resend', 'Google Auth'],
+    featured: true,
+  },
+  {
+    id: 'proj15',
+    title: 'Global Tamil Awards',
+    description: 'A prestigious forum providing international validation for the Tamil community, built with a modern, feature-rich tech stack.',
+    technologies: ['React', 'Supabase', 'Twilio', 'Resend'],
+    link: 'https://globaltamilawards.com',
+    featured: true,
+  },
   {
     id: 'proj1',
     title: 'BLE Attendance System',

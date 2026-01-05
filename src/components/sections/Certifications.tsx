@@ -13,7 +13,7 @@ const Certifications: React.FC = () => {
     >
       <div className="max-w-3xl mx-auto">
         <div className="relative border-l-2 border-blue-600 dark:border-blue-500 ml-6 pl-8 py-2">
-          {certifications.map((cert, index) => (
+          {certifications.map((cert) => (
             <div 
               key={cert.id} 
               className="mb-10 relative"
